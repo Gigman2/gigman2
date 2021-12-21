@@ -1,4 +1,11 @@
-### Hi there, I'm Eric - aka [GigMan](https://www.linkedin.com/in/eric-kojo-abbey-54898a12a/) 👋
+### Hi there, I'm kojo Eric - aka [GigMan](https://www.linkedin.com/in/eric-kojo-abbey-54898a12a/) 👋
+<a href="https://twitter.com/abbey_kojo">
+  <img align="left" alt="Kojo Abbey | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/eric-kojo-abbey-54898a12a/">
+  <img align="left" alt="Kojo Abbey | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 <!--
 **Gigman2/gigman2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
