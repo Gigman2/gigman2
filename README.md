@@ -1,7 +1,5 @@
 ### Hi there, I'm Eric - aka [GigMan](https://www.linkedin.com/in/eric-kojo-abbey-54898a12a/) 👋
 
-[![Visitors](https://img.shields.io/twitter/follow/abbey_kojo?color=1DA1F2&style=for-the-badge)](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
 <!--
 **Gigman2/gigman2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
