@@ -1,5 +1,6 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233A7CD9&size=24&width=700&lines=I'm+Eric+Kojo+Abbey.+You+can+also+call+me+Gigman)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233A7CD9&size=24&multiline=true&width=410&lines=I'm+Eric+Kojo+Abbey.Also+Gigman)](https://git.io/typing-svg)
+
 <a href="https://twitter.com/abbey_kojo">
   <img align="left" alt="Kojo Abbey | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
