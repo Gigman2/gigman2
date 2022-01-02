@@ -92,6 +92,12 @@
       </a>
       <br>Nest
     </td>
+    <td align="center" width="96">
+      <a>
+        <img src="./img/remix-run.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>Remix RUN
+    </td>
   </tr>
   <tr>
     <td align="center" width="96"> 
@@ -141,6 +147,12 @@
         <img src="./img/flutterio.svg" width="48" height="48" alt="Prometheus" />
       </a>
       <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="./img/flutterio.svg" width="48" height="48" alt="Prometheus" />
+      </a>
+      <br>GraphQL
     </td>
   </tr>
 </table>
