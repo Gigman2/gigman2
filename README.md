@@ -16,12 +16,12 @@
 </p>
 
 
-- :office: &nbsp;I'm currently working at **On my footwear shop**
-- :seedling: &nbsp;I’m currently preparing for **AWS certification**
+- :office: &nbsp;Currently I'm working on a **Footwear E-commerce**
+- 📖 &nbsp;I’m currently preparing for **AWS certification**
 - :speech_balloon: &nbsp;I like to talk about **AI** and **IOT**
-- :mailbox: &nbsp;Ask me anything on my **[issues page](https://github.com/Gigman2/gigman2/issues)**
+- ❤️ &nbsp;I love writing code and learning new things
+- :mailbox: &nbsp;Ask me anything **[here](https://github.com/Gigman2/gigman2/issues)**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/eric-kojo-abbey-54898a12a/)**
-
 
 <p  align=center>
   <div align="center">
