@@ -16,11 +16,10 @@
 </p>
 
 
-- :office: &nbsp;Currently I'm working on a **Footwear Ecommerce**
-- 📖 &nbsp;I’m currently preparing for **AWS certification**
+- :office: &nbsp;I'm currently working at **On my footwear shop**
+- :seedling: &nbsp;I’m currently preparing for **AWS certification**
 - :speech_balloon: &nbsp;I like to talk about **AI** and **IOT**
-- ❤️ &nbsp;I love writing code and learning new things
-- :mailbox: &nbsp;Ask me anything **[here](https://github.com/Gigman2/gigman2/issues)**
+- :mailbox: &nbsp;Ask me anything on my **[issues page](https://github.com/Gigman2/gigman2/issues)**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/eric-kojo-abbey-54898a12a/)**
 
 
@@ -95,9 +94,9 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="./img/remix-run.svg" width="48" height="48" alt="React" />
+        <img src="./img/remix-word.svg" width="48" height="48" alt="React" />
       </a>
-      <br>Remix RUN
+      <br>RemixRun
     </td>
   </tr>
   <tr>
@@ -133,15 +132,15 @@
     </td>
     <td align="center"  width="96">
       <a href="">
-        <img src="./img/heroku.svg" width="48" height="48" alt="MySQL" />
+        <img src="./img/heroku.svg" width="48" height="48" alt="Heroku" />
       </a>
       <br>Heroku
     </td>
     <td align="center" width="96">
       <a >
-        <img src="./img/postgresql.svg" width="48" height="48" alt="Grafana" />
+        <img src="./img/python.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>Postgresql
+      <br>Python
     </td>
     <td align="center" width="96">
       <a>
@@ -151,7 +150,7 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="./img/flutterio.svg" width="48" height="48" alt="Prometheus" />
+        <img src="./img/graphql.svg" width="48" height="48" alt="Prometheus" />
       </a>
       <br>GraphQL
     </td>
