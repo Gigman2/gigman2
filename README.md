@@ -7,9 +7,9 @@
    <a href="https://www.linkedin.com/in/eric-kojo-abbey-54898a12a/">
     <img alt="youtube subscribers" title="let connect" src="https://custom-icon-badges.herokuapp.com/static/v1?style=for-the-badge&logo=gigman-linkedin-1&label=&message=let%27s%20connect&color=2867B2"/>
    </a> 
-    <a href="https://www.linkedin.com/in/eric-kojo-abbey-54898a12a/">
+<!--     <a href="https://www.linkedin.com/in/eric-kojo-abbey-54898a12a/">
     <img alt="youtube subscribers" title="let connect" src="https://custom-icon-badges.herokuapp.com/static/v1?style=for-the-badge&logo=gigman-hackerrank&label=&message=hackerrank&color=2ec866"/>
-   </a> 
+   </a>  -->
     <a href="https://github.com/Gigman2/gigman2">
     <img alt="youtube subscribers" title="github profile" src="https://custom-icon-badges.herokuapp.com/static/v1?style=for-the-badge&logo=gigman-github&label=&message=profile&color=000000"/>
    </a> 
