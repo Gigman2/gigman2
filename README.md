@@ -16,8 +16,8 @@
 </p>
 
 
-- :office: &nbsp;Currently I'm working on a **Footwear E-commerce**
-- 📖 &nbsp;I’m currently preparing for **AWS certification**
+- :office: &nbsp;Currently I'm just staying cool and leveling up 😁**
+- 📖 &nbsp;I’m currently playing around with some DSA problems and challenges**
 - :speech_balloon: &nbsp;I like to talk about **AI** and **IOT**
 - ❤️ &nbsp;I love writing code and learning new things
 - :mailbox: &nbsp;Ask me anything **[here](https://github.com/Gigman2/gigman2/issues)**
