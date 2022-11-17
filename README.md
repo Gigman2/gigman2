@@ -16,7 +16,6 @@
 </p>
 
 
-- :office: &nbsp;Currently I'm just staying cool and leveling up 😁**
 - 📖 &nbsp;I’ve been playing around with some DSA problems and challenges**
 - :speech_balloon: &nbsp;I like to talk about **AI** and **IOT**
 - ❤️ &nbsp;I love writing code and learning new things
