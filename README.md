@@ -16,7 +16,7 @@
 </p>
 
 
-- 📖 &nbsp;I’ve been playing around with some DSA problems and challenges**
+<!-- - 📖 &nbsp;I’ve been playing around with some DSA problems and challenges** -->
 - :speech_balloon: &nbsp;I like to talk about **AI** and **IOT**
 - ❤️ &nbsp;I love writing code and learning new things
 - :mailbox: &nbsp;Ask me anything **[here](https://github.com/Gigman2/gigman2/issues)**
