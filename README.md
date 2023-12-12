@@ -17,8 +17,8 @@
 
 
 <!-- - 📖 &nbsp;I’ve been playing around with some DSA problems and challenges** -->
-- :speech_balloon: &nbsp;I like to talk about **AI** and **IOT**
-- ❤️ &nbsp;I love writing code and learning new things
+- :speech_balloon: &nbsp;Tech is fun dont you think! I mean 🤷🏾‍♂️ **AI**, **IOT**, **Blockchain**
+- ❤️ &nbsp;Curious at heart. System Design and Building highly efficient products
 - :mailbox: &nbsp;Ask me anything **[here](https://github.com/Gigman2/gigman2/issues)**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/eric-kojo-abbey-54898a12a/)**
 
