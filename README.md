@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+...+Hi;Call+me+Gigman+or+8gig+or+Eric++%3A);Glad+you+are+here)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+...+Hi;Call+me+Gigman+or+8gig+or+Eric++;Glad+you+are+here)](https://git.io/typing-svg)
 
 <p align="left">
    <a href="https://twitter.com/abbey_kojo">
