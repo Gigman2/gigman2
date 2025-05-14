@@ -17,7 +17,7 @@
 
 
 <!-- - 📖 &nbsp;I’ve been playing around with some DSA problems and challenges** -->
-- ❤️ &nbsp;I like to explore system design case studies of product working with millions of users
+- ❤️ &nbsp;I like to explore system design case studies for products products handling millions of users
 - :mailbox: &nbsp;Ask me anything **[here](https://github.com/Gigman2/gigman2/issues)**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/eric-kojo-abbey-54898a12a/)**
 
