@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+...+Hi;Call+me+Gigman+or+8gig+or+Eric++;Glad+you+are+here)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+...+Hi;Call+me+Gigman+or+Eric++;Glad+you+are+here)](https://git.io/typing-svg)
 
 <p align="left">
    <a href="https://twitter.com/abbey_kojo">
@@ -17,8 +17,7 @@
 
 
 <!-- - 📖 &nbsp;I’ve been playing around with some DSA problems and challenges** -->
-- :speech_balloon: &nbsp;Tech is fun dont you think! I mean 🤷🏾‍♂️ **System Design**, **AI**, 
-- ❤️ &nbsp;Curious at heart. System Design and Building highly efficient products
+- ❤️ &nbsp;I like to explore system design case studies of product working with millions of users
 - :mailbox: &nbsp;Ask me anything **[here](https://github.com/Gigman2/gigman2/issues)**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/eric-kojo-abbey-54898a12a/)**
 
