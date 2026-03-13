@@ -1,39 +1,19 @@
-## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+...+Hi;Call+me+Gigman+or+Eric++;Glad+you+are+here)](https://git.io/typing-svg)
+# Eric Kojo Abbey
 
-<p align="left">
-   <a href="https://twitter.com/abbey_kojo">
-    <img alt="=twitter" title="Follow me" src="https://custom-icon-badges.herokuapp.com/static/v1?style=for-the-badge&logo=gigman-twitter-1&label=&message=Follow&color=1DA1F2"/>    </a> 
-   <a href="https://www.linkedin.com/in/eric-kojo-abbey-54898a12a/">
-    <img alt="youtube subscribers" title="let connect" src="https://custom-icon-badges.herokuapp.com/static/v1?style=for-the-badge&logo=gigman-linkedin-1&label=&message=let%27s%20connect&color=2867B2"/>
-   </a> 
-<!--     <a href="https://www.linkedin.com/in/eric-kojo-abbey-54898a12a/">
-    <img alt="youtube subscribers" title="let connect" src="https://custom-icon-badges.herokuapp.com/static/v1?style=for-the-badge&logo=gigman-hackerrank&label=&message=hackerrank&color=2ec866"/>
-   </a>  -->
-    <a href="https://github.com/Gigman2/gigman2">
-    <img alt="youtube subscribers" title="github profile" src="https://custom-icon-badges.herokuapp.com/static/v1?style=for-the-badge&logo=gigman-github&label=&message=profile&color=000000"/>
-   </a> 
-</p>
+Senior software engineer building production systems in **Node.js**, **TypeScript**, and **React**. I think first in systems — domain boundaries, data models, service contracts — then in code.
 
+Currently CTO and co-founder of **[Uppsel](https://uppsel.com)** — a multi-tenant digital commerce and business management platform for SMEs in Ghana. Designing and building the full stack: NestJS microservices, event-driven architecture with RabbitMQ, multi-gateway payments (Paystack, Flutterwave, Mobile Money), and a React frontend built for non-technical business owners.
 
-<!-- - 📖 &nbsp;I’ve been playing around with some DSA problems and challenges** -->
-- ❤️ &nbsp;I like to explore system design case studies for products handling millions of users
-- :mailbox: &nbsp;Ask me anything **[here](https://github.com/Gigman2/gigman2/issues)**
-- :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/eric-kojo-abbey-54898a12a/)**
+Previously at **Complete Farmer**, where I led a monolith-to-microservices migration and owned backend architecture, API design, and full-stack feature delivery across a distributed agri-tech platform.
 
+---
 
-<!--
-<p  align=center>
-  <div align="center">
-      <a  href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-        <img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=Gigman2&count_private=true&show_icons=true&theme=radical&hide_rank=true&bg_color=24292f50&hide_border=true&title_color=268bd2&text_color=718CA1&icon_color=718CA1" />
-      </a>
-    <a>
-      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=Gigman2&count_private=true&show_icons=true&theme=radical&hide_rank=true&bg_color=24292f50&hide_border=true&title_color=268bd2&text_color=718CA1&icon_color=718CA1" />
-    </a>
-  </div>
-   <br><br><br><br><br><br><br><br><br>
-</p>  
--->
+**Stack**
+`Node.js` `TypeScript` `React` `NestJS` `MongoDB` `PostgreSQL` `Redis` `RabbitMQ` `Docker` `AWS`
 
+**Interests**
+Distributed systems · Domain-driven design · AI-augmented development · African digital infrastructure
 
+---
+
+📬 &nbsp;[LinkedIn](https://www.linkedin.com/in/eric-kojo-abbey-54898a12a) &nbsp;·&nbsp; [Twitter / X](https://twitter.com/abbey_kojo) &nbsp;·&nbsp; kojoaeric@gmail.com
