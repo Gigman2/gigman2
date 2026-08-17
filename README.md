@@ -2,9 +2,9 @@
 
 Senior software engineer building production systems in **Node.js**, **TypeScript**, and **React**. I think first in systems — domain boundaries, data models, service contracts — then in code.
 
-Currently CTO and co-founder of **[Uppsel](https://uppsel.com)** — a multi-tenant digital commerce and business management platform for SMEs in Ghana. Designing and building the full stack: NestJS microservices, event-driven architecture with RabbitMQ, multi-gateway payments (Paystack, Flutterwave, Mobile Money), and a React frontend built for non-technical business owners.
+Currently CTO and co-founder of **[Uppsel](https://uppsel.com)**. A multi-tenant digital commerce and business management platform for SMEs in Ghana. Designing and building the full stack: NestJS microservices, event-driven architecture with RabbitMQ, multi-gateway payments, and a React frontend built for non-technical business owners.
 
-Day-to-day I work as a Senior Software Engineer at **Complete Farmer**, leading backend architecture and full-stack feature delivery across a distributed agri-tech platform — including a monolith-to-microservices migration still in flight.
+Day-to-day I work as a Senior Software Engineer at **Complete Farmer**, leading backend architecture and full-stack feature delivery across a distributed agri-tech platform.
 
 Open to new opportunities where I can work on high-ownership engineering problems at scale.
 
