@@ -2,7 +2,7 @@
 
 Backend-first engineer, 6 years shipping production systems, mostly in fintech and agri-tech. Comfortable on the front end when the job needs it.
 
-Senior software engineer at **Complete Farmer**, where I lead backend architecture on a distributed agri-tech platform.
+Senior software engineer at **Complete Farmer**, where I lead the development of core agronomic tools.
 
 I've also designed and built a multi-tenant commerce platform: NestJS microservices, event-driven with RabbitMQ, and payments across multiple gateways.
 
